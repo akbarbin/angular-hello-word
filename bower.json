@@ -1,0 +1,26 @@
+{
+  "name": "hello-word",
+  "version": "0.0.0",
+  "authors": [
+    "(Muhamad Akbar Bin Widayat <muhamadakbarbw@gmail.com>)"
+  ],
+  "description": "Say greeting to someone",
+  "main": "hello-word.js",
+  "moduleType": [],
+  "keywords": [
+    "hello",
+    "word"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.8"
+  }
+}
